@@ -1,0 +1,254 @@
+,Occupation Title,Occupation Code,Occupation Type,2020 Employment,2020 Percent of Industry,2020 Percent of Occupation,Projected 2030 Employment,Projected 2030 Percent of Industry,Projected 2030 Percent of Occupation,"Employment Change, 2020-2030","Employment Percent Change, 2020-2030",Occupation Sort,Display Level
+0,"
+Filter by Title:
+
+","
+Filter by Code:
+
+", , , , , , , , , , , 
+1,"Total, all occupations",00-0000,Summary,"1,492.4",100.0,1.0,"1,861.9",100.0,1.1,369.5,24.8,,0
+2,Management occupations,11-0000,Summary,37.1,2.5,0.4,49.9,2.7,0.5,12.8,34.6,2,1
+3,Top executives,11-1000,Summary,8.7,0.6,0.3,10.3,0.6,0.3,1.6,19.0,3,2
+4,Chief executives,11-1011,Line Item,1.1,0.1,0.4,1.1,0.1,0.4,0.0,3.1,4,3
+5,General and operations managers,11-1021,Line Item,7.6,0.5,0.3,9.2,0.5,0.3,1.6,21.3,5,3
+6,"Advertising, marketing, promotions, public relations, and sales managers",11-2000,Summary,1.2,0.1,0.2,1.5,0.1,0.2,0.3,21.3,7,2
+7,Marketing and sales managers,11-2020,Summary,1.0,0.1,0.2,1.3,0.1,0.2,0.2,21.3,9,3
+8,Marketing managers,11-2021,Line Item,0.7,0.0,0.2,0.8,0.0,0.2,0.1,21.3,10,4
+9,Sales managers,11-2022,Line Item,0.4,0.0,0.1,0.5,0.0,0.1,0.1,21.3,11,4
+10,Public relations and fundraising managers,11-2030,Line Item,0.2,0.0,0.2,0.2,0.0,0.2,0.0,21.3,12,3
+11,Operations specialties managers,11-3000,Summary,4.5,0.3,0.2,5.7,0.3,0.2,1.1,24.9,13,2
+12,Administrative services and facilities managers,11-3010,Line Item,1.9,0.1,0.6,2.3,0.1,0.6,0.4,21.3,14,3
+13,Computer and information systems managers,11-3021,Line Item,0.4,0.0,0.1,0.5,0.0,0.1,0.1,21.3,15,3
+14,Financial managers,11-3031,Line Item,1.4,0.1,0.2,1.8,0.1,0.2,0.5,33.4,16,3
+15,Human resources managers,11-3121,Line Item,0.7,0.0,0.4,0.8,0.0,0.5,0.1,21.3,21,3
+16,Training and development managers,11-3131,Line Item,0.1,0.0,0.3,0.1,0.0,0.3,0.0,21.3,22,3
+17,Other management occupations,11-9000,Summary,22.7,1.5,0.6,32.5,1.7,0.7,9.8,43.2,23,2
+18,Medical and health services managers,11-9111,Line Item,20.5,1.4,4.8,29.9,1.6,5.2,9.3,45.5,35,3
+19,Social and community service managers,11-9151,Line Item,1.1,0.1,0.6,1.3,0.1,0.6,0.2,21.3,39,3
+20,"Personal service managers, all other; entertainment and recreation managers, except gambling; and managers, all other",11-9198,Line Item,1.0,0.1,0.2,1.2,0.1,0.2,0.2,21.3,42,3
+21,Business and financial operations occupations,13-0000,Summary,20.3,1.4,0.2,24.9,1.3,0.2,4.6,22.9,43,1
+22,Business operations specialists,13-1000,Summary,17.8,1.2,0.3,21.9,1.2,0.3,4.1,23.1,44,2
+23,Buyers and purchasing agents,13-1020,Line Item,0.2,0.0,0.0,0.2,0.0,0.0,0.0,9.1,46,3
+24,"Claims adjusters, appraisers, examiners, and investigators",13-1030,Summary,0.1,0.0,0.0,0.1,0.0,0.0,0.0,9.1,47,3
+25,"Claims adjusters, examiners, and investigators",13-1031,Line Item,0.1,0.0,0.0,0.1,0.0,0.0,0.0,9.1,48,4
+26,Compliance officers,13-1041,Line Item,2.3,0.2,0.7,2.8,0.2,0.8,0.5,21.3,50,3
+27,Human resources workers,13-1070,Summary,5.7,0.4,0.8,6.8,0.4,0.8,1.1,18.8,52,3
+28,Human resources specialists,13-1071,Line Item,5.7,0.4,0.8,6.8,0.4,0.9,1.1,18.8,53,4
+29,Management analysts,13-1111,Line Item,0.5,0.0,0.1,0.6,0.0,0.1,0.1,21.3,57,3
+30,"Meeting, convention, and event planners",13-1121,Line Item,0.1,0.0,0.1,0.1,0.0,0.1,0.0,21.3,58,3
+31,Fundraisers,13-1131,Line Item,0.4,0.0,0.4,0.5,0.0,0.4,0.1,21.3,59,3
+32,"Compensation, benefits, and job analysis specialists",13-1141,Line Item,0.2,0.0,0.2,0.2,0.0,0.2,0.0,21.3,60,3
+33,Training and development specialists,13-1151,Line Item,1.3,0.1,0.4,1.6,0.1,0.4,0.3,21.3,61,3
+34,Market research analysts and marketing specialists,13-1161,Line Item,4.1,0.3,0.5,5.4,0.3,0.6,1.4,33.4,62,3
+35,"Project management specialists and business operations specialists, all other",13-1198,Line Item,2.9,0.2,0.2,3.6,0.2,0.2,0.6,21.3,63,3
+36,Financial specialists,13-2000,Summary,2.5,0.2,0.1,3.0,0.2,0.1,0.5,21.3,64,2
+37,Accountants and auditors,13-2011,Line Item,2.1,0.1,0.2,2.6,0.1,0.2,0.5,21.3,65,3
+38,"Financial and investment analysts, financial risk specialists, and financial specialists, all other",13-2098,Line Item,0.3,0.0,0.1,0.4,0.0,0.1,0.1,21.3,78,3
+39,Computer and mathematical occupations,15-0000,Summary,2.9,0.2,0.1,3.5,0.2,0.1,0.6,19.5,79,1
+40,Computer occupations,15-1200,Summary,2.9,0.2,0.1,3.4,0.2,0.1,0.5,18.9,80,2
+41,Computer and information analysts,15-1210,Summary,0.4,0.0,0.1,0.5,0.0,0.1,0.1,20.6,81,3
+42,Computer systems analysts,15-1211,Line Item,0.3,0.0,0.1,0.4,0.0,0.1,0.0,15.2,82,4
+43,Information security analysts,15-1212,Line Item,0.1,0.0,0.1,0.1,0.0,0.1,0.0,45.5,83,4
+44,Computer support specialists,15-1230,Summary,1.0,0.1,0.1,1.2,0.1,0.1,0.2,17.4,85,3
+45,Computer network support specialists,15-1231,Line Item,0.2,0.0,0.1,0.3,0.0,0.1,0.0,21.3,86,4
+46,Computer user support specialists,15-1232,Line Item,0.8,0.1,0.1,1.0,0.1,0.1,0.1,16.4,87,4
+47,Database and network administrators and architects,15-1240,Summary,0.9,0.1,0.1,1.1,0.1,0.1,0.1,16.3,88,3
+48,Network and computer systems administrators,15-1244,Line Item,0.7,0.0,0.2,0.8,0.0,0.2,0.1,15.2,90,4
+49,Database administrators and architects,15-1245,Line Item,0.2,0.0,0.1,0.2,0.0,0.1,0.0,21.3,91,4
+50,"Software and web developers, programmers, and testers",15-1250,Summary,0.3,0.0,0.0,0.4,0.0,0.0,0.1,28.9,92,3
+51,Computer programmers,15-1251,Line Item,0.1,0.0,0.0,0.1,0.0,0.0,0.0,-3.0,93,4
+52,Software developers and software quality assurance analysts and testers,15-1256,Line Item,0.2,0.0,0.0,0.3,0.0,0.0,0.1,39.4,94,4
+53,"Computer occupations, all other",15-1299,Line Item,0.2,0.0,0.0,0.2,0.0,0.0,0.0,18.8,96,3
+54,Mathematical science occupations,15-2000,Summary,0.1,0.0,0.0,0.1,0.0,0.0,0.0,43.6,97,2
+55,"Life, physical, and social science occupations",19-0000,Summary,0.6,0.0,0.0,0.7,0.0,0.0,0.1,21.3,148,1
+56,Social scientists and related workers,19-3000,Summary,0.3,0.0,0.1,0.4,0.0,0.1,0.1,21.3,179,2
+57,Psychologists,19-3030,Summary,0.3,0.0,0.2,0.4,0.0,0.2,0.1,21.3,182,3
+58,"Clinical, counseling, and school psychologists",19-3031,Line Item,0.3,0.0,0.3,0.4,0.0,0.3,0.1,21.3,183,4
+59,"Life, physical, and social science technicians",19-4000,Summary,0.2,0.0,0.0,0.2,0.0,0.0,0.0,21.3,194,2
+60,"Miscellaneous life, physical, and social science technicians",19-4090,Summary,0.2,0.0,0.2,0.2,0.0,0.2,0.0,21.3,204,3
+61,"Life, physical, and social science technicians, all other",19-4099,Line Item,0.2,0.0,0.2,0.2,0.0,0.3,0.0,21.3,206,4
+62,Community and social service occupations,21-0000,Summary,37.9,2.5,1.4,46.1,2.5,1.5,8.1,21.4,210,1
+63,"Counselors, social workers, and other community and social service specialists",21-1000,Summary,30.1,2.0,1.3,36.6,2.0,1.4,6.5,21.5,211,2
+64,Counselors,21-1010,Summary,2.6,0.2,0.3,3.1,0.2,0.3,0.5,21.3,212,3
+65,"Educational, guidance, and career counselors and advisors",21-1012,Line Item,0.1,0.0,0.0,0.1,0.0,0.0,0.0,21.3,213,4
+66,Rehabilitation counselors,21-1015,Line Item,0.1,0.0,0.1,0.2,0.0,0.1,0.0,21.3,215,4
+67,"Substance abuse, behavioral disorder, and mental health counselors",21-1018,Line Item,1.7,0.1,0.5,2.1,0.1,0.5,0.4,21.3,216,4
+68,"Counselors, all other",21-1019,Line Item,0.5,0.0,0.9,0.6,0.0,1.0,0.1,21.3,217,4
+69,Social workers,21-1020,Summary,22.0,1.5,3.1,26.7,1.4,3.3,4.7,21.3,218,3
+70,"Child, family, and school social workers",21-1021,Line Item,0.6,0.0,0.2,0.7,0.0,0.2,0.1,21.3,219,4
+71,Healthcare social workers,21-1022,Line Item,20.7,1.4,11.2,25.1,1.3,12.0,4.4,21.3,220,4
+72,Mental health and substance abuse social workers,21-1023,Line Item,0.5,0.0,0.4,0.6,0.0,0.4,0.1,21.3,221,4
+73,"Social workers, all other",21-1029,Line Item,0.2,0.0,0.3,0.3,0.0,0.4,0.0,21.3,222,4
+74,Miscellaneous community and social service specialists,21-1090,Summary,5.6,0.4,0.8,6.8,0.4,0.8,1.2,22.4,223,3
+75,Health education specialists,21-1091,Line Item,0.7,0.0,1.1,0.8,0.0,1.2,0.1,21.3,224,4
+76,Social and human service assistants,21-1093,Line Item,3.1,0.2,0.7,3.7,0.2,0.8,0.7,21.3,226,4
+77,Community health workers,21-1094,Line Item,1.1,0.1,1.7,1.4,0.1,1.8,0.3,27.3,227,4
+78,"Community and social service specialists, all other",21-1099,Line Item,0.7,0.0,0.8,0.9,0.0,0.8,0.2,21.3,228,4
+79,Religious workers,21-2000,Summary,7.8,0.5,1.6,9.4,0.5,1.9,1.7,21.3,229,2
+80,Clergy,21-2011,Line Item,7.6,0.5,2.9,9.2,0.5,3.5,1.6,21.3,230,3
+81,"Religious workers, all other",21-2099,Line Item,0.2,0.0,0.2,0.2,0.0,0.3,0.0,21.3,232,3
+82,Legal occupations,23-0000,Summary,0.1,0.0,0.0,0.1,0.0,0.0,0.0,35.8,233,1
+83,"Lawyers, judges, and related workers",23-1000,Summary,0.1,0.0,0.0,0.1,0.0,0.0,0.0,36.8,234,2
+84,Lawyers and judicial law clerks,23-1010,Summary,0.1,0.0,0.0,0.1,0.0,0.0,0.0,37.0,235,3
+85,Lawyers,23-1011,Line Item,0.1,0.0,0.0,0.1,0.0,0.0,0.0,37.0,236,4
+86,Educational instruction and library occupations,25-0000,Summary,0.1,0.0,0.0,0.1,0.0,0.0,0.0,21.6,247,1
+87,"Arts, design, entertainment, sports, and media occupations",27-0000,Summary,1.9,0.1,0.1,2.3,0.1,0.1,0.4,21.7,332,1
+88,Art and design workers,27-1000,Summary,0.1,0.0,0.0,0.1,0.0,0.0,0.0,21.2,333,2
+89,Designers,27-1020,Summary,0.1,0.0,0.0,0.1,0.0,0.0,0.0,21.2,340,3
+90,Graphic designers,27-1024,Line Item,0.1,0.0,0.0,0.1,0.0,0.0,0.0,21.3,344,4
+91,Media and communication workers,27-3000,Summary,1.8,0.1,0.2,2.2,0.1,0.3,0.4,21.7,364,2
+92,Public relations specialists,27-3031,Line Item,1.7,0.1,0.6,2.0,0.1,0.7,0.4,21.3,367,3
+93,Miscellaneous media and communication workers,27-3090,Summary,0.1,0.0,0.1,0.2,0.0,0.1,0.0,27.3,372,3
+94,Interpreters and translators,27-3091,Line Item,0.1,0.0,0.1,0.2,0.0,0.2,0.0,27.3,373,4
+95,Healthcare practitioners and technical occupations,29-0000,Summary,318.6,21.3,3.5,387.0,20.8,3.9,68.4,21.5,385,1
+96,Healthcare diagnosing or treating practitioners,29-1000,Summary,225.7,15.1,3.8,274.4,14.7,4.1,48.8,21.6,386,2
+97,Dietitians and nutritionists,29-1031,Line Item,1.1,0.1,1.5,1.3,0.1,1.6,0.2,21.3,394,3
+98,Pharmacists,29-1051,Line Item,2.1,0.1,0.7,2.6,0.1,0.8,0.5,21.3,396,3
+99,Physician assistants,29-1071,Line Item,0.2,0.0,0.1,0.2,0.0,0.1,0.0,21.3,397,3
+100,Therapists,29-1120,Summary,44.9,3.0,6.0,55.3,3.0,6.1,10.3,23.0,399,3
+101,Occupational therapists,29-1122,Line Item,10.6,0.7,8.1,12.9,0.7,8.3,2.3,21.3,400,4
+102,Physical therapists,29-1123,Line Item,25.4,1.7,10.6,30.8,1.7,10.7,5.4,21.3,401,4
+103,Recreational therapists,29-1125,Line Item,0.4,0.0,1.8,0.4,0.0,1.9,0.1,21.3,403,4
+104,Respiratory therapists,29-1126,Line Item,1.7,0.1,1.2,2.0,0.1,1.2,0.4,21.3,404,4
+105,Speech-language pathologists,29-1127,Line Item,6.4,0.4,4.1,8.5,0.5,4.2,2.1,33.4,405,4
+106,"Therapists, all other",29-1129,Line Item,0.3,0.0,1.1,0.4,0.0,1.2,0.1,21.3,407,4
+107,Registered nurses,29-1141,Line Item,169.5,11.4,5.5,205.5,11.0,6.1,36.0,21.3,409,3
+108,Nurse anesthetists,29-1151,Line Item,0.1,0.0,0.2,0.1,0.0,0.2,0.0,27.3,410,3
+109,Nurse practitioners,29-1171,Line Item,5.8,0.4,2.6,7.0,0.4,2.1,1.2,21.3,412,3
+110,Family medicine physicians,29-1215,Line Item,0.5,0.0,0.5,0.6,0.0,0.5,0.1,21.3,415,3
+111,General internal medicine physicians,29-1216,Line Item,0.1,0.0,0.2,0.2,0.0,0.3,0.0,21.3,416,3
+112,"Physicians, all other; and ophthalmologists, except pediatric",29-1228,Line Item,1.2,0.1,0.3,1.4,0.1,0.3,0.3,21.3,420,3
+113,Miscellaneous healthcare diagnosing or treating practitioners,29-1290,Summary,0.1,0.0,0.0,0.1,0.0,0.0,0.0,21.3,422,3
+114,"Acupuncturists and healthcare diagnosing or treating practitioners, all other",29-1298,Line Item,0.1,0.0,0.1,0.1,0.0,0.1,0.0,21.3,424,4
+115,Health technologists and technicians,29-2000,Summary,92.0,6.2,3.1,111.5,6.0,3.5,19.5,21.1,425,2
+116,Clinical laboratory technologists and technicians,29-2010,Line Item,0.2,0.0,0.1,0.2,0.0,0.1,0.0,21.3,426,3
+117,Cardiovascular technologists and technicians,29-2031,Line Item,0.1,0.0,0.1,0.1,0.0,0.1,0.0,21.3,427,3
+118,Diagnostic medical sonographers,29-2032,Line Item,0.1,0.0,0.1,0.1,0.0,0.1,0.0,21.3,428,3
+119,Radiologic technologists and technicians,29-2034,Line Item,0.1,0.0,0.0,0.1,0.0,0.0,0.0,21.3,430,3
+120,Health practitioner support technologists and technicians,29-2050,Summary,2.9,0.2,0.4,3.5,0.2,0.4,0.6,21.3,433,3
+121,Dietetic technicians,29-2051,Line Item,0.1,0.0,0.2,0.1,0.0,0.3,0.0,21.3,434,4
+122,Pharmacy technicians,29-2052,Line Item,2.4,0.2,0.6,2.9,0.2,0.7,0.5,21.3,435,4
+123,Surgical technologists,29-2055,Line Item,0.1,0.0,0.1,0.1,0.0,0.1,0.0,21.3,437,4
+124,Licensed practical and licensed vocational nurses,29-2061,Line Item,84.4,5.7,12.3,102.3,5.5,13.6,17.9,21.3,440,3
+125,"Medical dosimetrists, medical records specialists, and health technologists and technicians, all other",29-2098,Line Item,4.3,0.3,1.3,5.1,0.3,1.4,0.8,18.8,444,3
+126,Other healthcare practitioners and technical occupations,29-9000,Summary,0.9,0.1,0.8,1.1,0.1,0.8,0.2,21.4,445,2
+127,"Health information technologists, medical registrars, surgical assistants, and healthcare practitioners and technical workers, all other",29-9098,Line Item,0.8,0.1,1.0,1.0,0.1,1.1,0.2,21.3,448,3
+128,Healthcare support occupations,31-0000,Summary,958.8,64.2,14.0,"1,218.6",65.4,14.5,259.7,27.1,449,1
+129,"Home health and personal care aides; and nursing assistants, orderlies, and psychiatric aides",31-1100,Summary,940.3,63.0,18.9,"1,192.5",64.0,19.2,252.2,26.8,450,2
+130,Home health and personal care aides,31-1120,Line Item,862.9,57.8,24.9,"1,098.7",59.0,23.9,235.7,27.3,451,3
+131,"Nursing assistants, orderlies, and psychiatric aides",31-1130,Summary,77.4,5.2,5.2,93.8,5.0,5.8,16.4,21.3,452,3
+132,Nursing assistants,31-1131,Line Item,77.2,5.2,5.5,93.6,5.0,6.2,16.4,21.3,453,4
+133,Orderlies,31-1132,Line Item,0.1,0.0,0.2,0.1,0.0,0.2,0.0,21.3,454,4
+134,Occupational therapy and physical therapist assistants and aides,31-2000,Summary,12.6,0.8,6.6,18.8,1.0,7.5,6.3,49.8,456,2
+135,Occupational therapy assistants,31-2011,Line Item,3.2,0.2,7.5,4.3,0.2,7.3,1.1,33.4,458,4
+136,Physical therapist assistants and aides,31-2020,Summary,9.2,0.6,6.6,14.4,0.8,7.8,5.2,55.7,460,3
+137,Physical therapist assistants,31-2021,Line Item,8.8,0.6,9.3,13.8,0.7,10.9,5.1,57.6,461,4
+138,Physical therapist aides,31-2022,Line Item,0.5,0.0,1.0,0.6,0.0,1.0,0.1,21.3,462,4
+139,Other healthcare support occupations,31-9000,Summary,6.0,0.4,0.4,7.2,0.4,0.4,1.3,21.3,463,2
+140,Massage therapists,31-9011,Line Item,0.5,0.0,0.4,0.6,0.0,0.3,0.1,21.3,464,3
+141,Miscellaneous healthcare support occupations,31-9090,Summary,5.4,0.4,0.4,6.6,0.4,0.4,1.2,21.3,465,3
+142,Dental assistants,31-9091,Line Item,0.1,0.0,0.0,0.2,0.0,0.0,0.0,21.3,466,4
+143,Medical assistants,31-9092,Line Item,2.6,0.2,0.4,3.2,0.2,0.4,0.6,21.3,467,4
+144,Medical equipment preparers,31-9093,Line Item,0.4,0.0,0.7,0.5,0.0,0.8,0.1,21.3,468,4
+145,Medical transcriptionists,31-9094,Line Item,0.1,0.0,0.1,0.1,0.0,0.2,0.0,21.3,469,4
+146,Pharmacy aides,31-9095,Line Item,0.1,0.0,0.3,0.2,0.0,0.5,0.0,21.3,470,4
+147,Phlebotomists,31-9097,Line Item,0.1,0.0,0.0,0.1,0.0,0.0,0.0,21.3,472,4
+148,"Healthcare support workers, all other",31-9099,Line Item,2.0,0.1,2.0,2.4,0.1,2.2,0.4,21.3,473,4
+149,Protective service occupations,33-0000,Summary,0.2,0.0,0.0,0.2,0.0,0.0,0.0,15.3,474,1
+150,Other protective service workers,33-9000,Summary,0.2,0.0,0.0,0.2,0.0,0.0,0.0,15.3,496,2
+151,Security guards and gambling surveillance officers,33-9030,Summary,0.2,0.0,0.0,0.2,0.0,0.0,0.0,15.2,499,3
+152,Security guards,33-9032,Line Item,0.2,0.0,0.0,0.2,0.0,0.0,0.0,15.2,501,4
+153,Food preparation and serving related occupations,35-0000,Summary,2.6,0.2,0.0,3.2,0.2,0.0,0.6,21.3,507,1
+154,Supervisors of food preparation and serving workers,35-1000,Summary,0.2,0.0,0.0,0.2,0.0,0.0,0.0,21.3,508,2
+155,First-line supervisors of food preparation and serving workers,35-1012,Line Item,0.1,0.0,0.0,0.1,0.0,0.0,0.0,21.3,510,3
+156,Cooks and food preparation workers,35-2000,Summary,1.5,0.1,0.0,1.9,0.1,0.1,0.3,21.3,511,2
+157,Cooks,35-2010,Summary,1.2,0.1,0.1,1.4,0.1,0.0,0.2,21.3,512,3
+158,"Cooks, institution and cafeteria",35-2012,Line Item,1.1,0.1,0.3,1.4,0.1,0.3,0.2,21.3,514,4
+159,Food preparation workers,35-2021,Line Item,0.4,0.0,0.0,0.5,0.0,0.1,0.1,21.3,519,3
+160,Food and beverage serving workers,35-3000,Summary,0.6,0.0,0.0,0.8,0.0,0.0,0.1,21.3,520,2
+161,Dishwashers,35-9021,Line Item,0.1,0.0,0.0,0.1,0.0,0.0,0.0,21.3,527,3
+162,"Food preparation and serving related workers, all other",35-9099,Line Item,0.1,0.0,0.1,0.1,0.0,0.1,0.0,21.3,529,3
+163,Building and grounds cleaning and maintenance occupations,37-0000,Summary,2.1,0.1,0.0,2.5,0.1,0.0,0.4,21.3,530,1
+164,Supervisors of building and grounds cleaning and maintenance workers,37-1000,Summary,0.1,0.0,0.0,0.1,0.0,0.0,0.0,21.3,531,2
+165,First-line supervisors of housekeeping and janitorial workers,37-1011,Line Item,0.1,0.0,0.0,0.1,0.0,0.0,0.0,21.3,532,3
+166,Building cleaning and pest control workers,37-2000,Summary,2.0,0.1,0.1,2.4,0.1,0.1,0.4,21.3,534,2
+167,Building cleaning workers,37-2010,Summary,2.0,0.1,0.1,2.4,0.1,0.1,0.4,21.3,535,3
+168,"Janitors and cleaners, except maids and housekeeping cleaners",37-2011,Line Item,0.7,0.0,0.0,0.8,0.0,0.0,0.1,21.3,536,4
+169,Maids and housekeeping cleaners,37-2012,Line Item,1.3,0.1,0.1,1.6,0.1,0.1,0.3,21.3,537,4
+170,Personal care and service occupations,39-0000,Summary,6.1,0.4,0.2,7.4,0.4,0.2,1.3,21.3,545,1
+171,Supervisors of personal care and service workers,39-1000,Summary,2.4,0.2,1.1,2.9,0.2,1.1,0.5,21.3,546,2
+172,"First-line supervisors of personal service and entertainment and recreation workers, except gambling services",39-1098,Line Item,2.4,0.2,1.2,2.9,0.2,1.2,0.5,21.3,548,3
+173,Recreation and fitness workers,39-9030,Summary,2.0,0.1,0.3,2.4,0.1,0.3,0.4,21.3,582,2
+174,Recreation workers,39-9032,Line Item,1.6,0.1,0.4,1.9,0.1,0.5,0.3,21.3,584,3
+175,Residential advisors,39-9041,Line Item,0.5,0.0,0.4,0.6,0.0,0.5,0.1,21.3,585,2
+176,Sales and related occupations,41-0000,Summary,5.4,0.4,0.0,6.5,0.4,0.0,1.1,20.2,587,1
+177,Supervisors of sales workers,41-1000,Summary,0.3,0.0,0.0,0.3,0.0,0.0,0.1,21.3,588,2
+178,First-line supervisors of retail sales workers,41-1011,Line Item,0.2,0.0,0.0,0.2,0.0,0.0,0.0,21.3,589,3
+179,First-line supervisors of non-retail sales workers,41-1012,Line Item,0.1,0.0,0.0,0.1,0.0,0.0,0.0,21.3,590,3
+180,Retail sales workers,41-2000,Summary,0.9,0.1,0.0,1.1,0.1,0.0,0.1,14.7,591,2
+181,Cashiers,41-2010,Summary,0.3,0.0,0.0,0.3,0.0,0.0,0.0,3.1,592,3
+182,Cashiers,41-2011,Line Item,0.3,0.0,0.0,0.3,0.0,0.0,0.0,3.1,593,4
+183,Retail salespersons,41-2031,Line Item,0.6,0.0,0.0,0.7,0.0,0.0,0.1,21.3,598,3
+184,"Sales representatives, services",41-3000,Summary,4.1,0.3,0.2,5.0,0.3,0.2,0.9,21.3,599,2
+185,"Sales representatives of services, except advertising, insurance, financial services, and travel",41-3091,Line Item,4.1,0.3,0.4,4.9,0.3,0.5,0.9,21.3,604,3
+186,"Sales representatives, wholesale and manufacturing",41-4000,Summary,0.1,0.0,0.0,0.1,0.0,0.0,0.0,21.3,605,2
+187,"Sales representatives, wholesale and manufacturing, except technical and scientific products",41-4012,Line Item,0.1,0.0,0.0,0.1,0.0,0.0,0.0,21.3,607,3
+188,Other sales and related workers,41-9000,Summary,0.1,0.0,0.0,0.1,0.0,0.0,0.0,21.3,608,2
+189,Miscellaneous sales and related workers,41-9090,Summary,0.1,0.0,0.0,0.1,0.0,0.0,0.0,21.3,617,3
+190,"Sales and related workers, all other",41-9099,Line Item,0.1,0.0,0.0,0.1,0.0,0.0,0.0,21.3,619,4
+191,Office and administrative support occupations,43-0000,Summary,91.3,6.1,0.5,101.2,5.4,0.5,9.8,10.8,620,1
+192,Supervisors of office and administrative support workers,43-1000,Summary,7.7,0.5,0.5,8.5,0.5,0.6,0.7,9.5,621,2
+193,First-line supervisors of office and administrative support workers,43-1011,Line Item,7.7,0.5,0.5,8.5,0.5,0.6,0.7,9.5,622,3
+194,Financial clerks,43-3000,Summary,14.0,0.9,0.5,15.9,0.9,0.6,1.9,13.6,627,2
+195,Bill and account collectors,43-3011,Line Item,0.7,0.0,0.3,0.8,0.0,0.4,0.1,9.1,628,3
+196,Billing and posting clerks,43-3021,Line Item,7.0,0.5,1.5,8.4,0.5,1.8,1.5,21.3,629,3
+197,"Bookkeeping, accounting, and auditing clerks",43-3031,Line Item,3.9,0.3,0.2,4.3,0.2,0.3,0.4,9.1,630,3
+198,Payroll and timekeeping clerks,43-3051,Line Item,2.0,0.1,1.4,1.9,0.1,1.6,-0.1,-3.0,632,3
+199,Procurement clerks,43-3061,Line Item,0.2,0.0,0.4,0.2,0.0,0.4,0.0,9.1,633,3
+200,"Financial clerks, all other",43-3099,Line Item,0.2,0.0,0.5,0.2,0.0,0.6,0.0,21.3,635,3
+201,Information and record clerks,43-4000,Summary,17.2,1.2,0.3,19.2,1.0,0.3,2.0,11.6,636,2
+202,Customer service representatives,43-4051,Line Item,7.4,0.5,0.3,8.1,0.4,0.3,0.7,9.1,641,3
+203,"Eligibility interviewers, government programs",43-4061,Line Item,0.2,0.0,0.2,0.3,0.0,0.2,0.1,21.3,642,3
+204,File clerks,43-4071,Line Item,0.9,0.1,0.9,0.9,0.0,1.0,0.0,-3.0,643,3
+205,"Interviewers, except eligibility and loan",43-4111,Line Item,2.6,0.2,1.4,2.8,0.2,1.7,0.2,9.1,645,3
+206,Order clerks,43-4151,Line Item,0.2,0.0,0.2,0.2,0.0,0.2,0.0,-3.0,649,3
+207,"Human resources assistants, except payroll and timekeeping",43-4161,Line Item,1.4,0.1,1.2,1.5,0.1,1.4,0.1,9.1,650,3
+208,Receptionists and information clerks,43-4171,Line Item,4.1,0.3,0.4,5.0,0.3,0.5,0.9,21.3,651,3
+209,"Information and record clerks, all other",43-4199,Line Item,0.3,0.0,0.2,0.4,0.0,0.2,0.1,21.3,653,3
+210,"Material recording, scheduling, dispatching, and distributing workers",43-5000,Summary,4.2,0.3,0.2,5.0,0.3,0.2,0.8,20.0,654,2
+211,Couriers and messengers,43-5021,Line Item,0.1,0.0,0.1,0.2,0.0,0.1,0.0,21.3,656,3
+212,Dispatchers,43-5030,Summary,0.3,0.0,0.1,0.3,0.0,0.1,0.0,15.2,657,3
+213,"Dispatchers, except police, fire, and ambulance",43-5032,Line Item,0.3,0.0,0.1,0.3,0.0,0.2,0.0,15.2,659,4
+214,"Production, planning, and expediting clerks",43-5061,Line Item,3.5,0.2,0.9,4.2,0.2,1.1,0.7,21.3,665,3
+215,"Shipping, receiving, and inventory clerks",43-5071,Line Item,0.3,0.0,0.0,0.3,0.0,0.0,0.0,9.1,666,3
+216,Secretaries and administrative assistants,43-6000,Summary,22.9,1.5,0.7,25.4,1.4,0.8,2.5,10.8,668,2
+217,Executive secretaries and executive administrative assistants,43-6011,Line Item,1.8,0.1,0.3,1.7,0.1,0.4,-0.2,-9.1,669,3
+218,Medical secretaries and administrative assistants,43-6013,Line Item,11.0,0.7,1.8,13.3,0.7,2.0,2.3,21.3,671,3
+219,"Secretaries and administrative assistants, except legal, medical, and executive",43-6014,Line Item,10.1,0.7,0.5,10.4,0.6,0.5,0.3,3.1,672,3
+220,Other office and administrative support workers,43-9000,Summary,24.0,1.6,0.6,26.1,1.4,0.7,2.1,8.7,673,2
+221,Data entry and information processing workers,43-9020,Summary,1.0,0.1,0.5,0.9,0.0,0.6,-0.2,-15.4,674,3
+222,Data entry keyers,43-9021,Line Item,1.0,0.1,0.6,0.8,0.0,0.7,-0.1,-15.1,675,4
+223,Insurance claims and policy processing clerks,43-9041,Line Item,0.1,0.0,0.0,0.1,0.0,0.0,0.0,21.3,678,3
+224,"Office clerks, general",43-9061,Line Item,21.8,1.5,0.7,23.8,1.3,0.8,2.0,9.1,680,3
+225,"Office and administrative support workers, all other",43-9199,Line Item,1.1,0.1,0.5,1.3,0.1,0.6,0.2,21.3,684,3
+226,"Installation, maintenance, and repair occupations",49-0000,Summary,2.2,0.1,0.0,2.7,0.1,0.0,0.5,21.3,779,1
+227,"Supervisors of installation, maintenance, and repair workers",49-1000,Summary,0.1,0.0,0.0,0.2,0.0,0.0,0.0,21.3,780,2
+228,"First-line supervisors of mechanics, installers, and repairers",49-1011,Line Item,0.1,0.0,0.0,0.2,0.0,0.0,0.0,21.3,781,3
+229,"Other installation, maintenance, and repair occupations",49-9000,Summary,2.0,0.1,0.1,2.5,0.1,0.1,0.4,21.3,815,2
+230,Precision instrument and equipment repairers,49-9060,Summary,0.6,0.0,0.7,0.7,0.0,0.9,0.1,21.3,829,3
+231,Medical equipment repairers,49-9062,Line Item,0.6,0.0,1.1,0.7,0.0,1.2,0.1,21.3,831,4
+232,"Maintenance and repair workers, general",49-9071,Line Item,1.4,0.1,0.1,1.7,0.1,0.1,0.3,21.3,835,3
+233,Production occupations,51-0000,Summary,0.2,0.0,0.0,0.3,0.0,0.0,0.0,13.9,846,1
+234,Other production occupations,51-9000,Summary,0.1,0.0,0.0,0.1,0.0,0.0,0.0,0.9,948,2
+235,Transportation and material moving occupations,53-0000,Summary,4.0,0.3,0.0,4.8,0.3,0.0,0.8,21.3,986,1
+236,Supervisors of transportation and material moving workers,53-1000,Summary,0.2,0.0,0.0,0.2,0.0,0.0,0.0,21.3,987,2
+237,"First-line supervisors of transportation and material-moving workers, except aircraft cargo handling supervisors",53-1047,Line Item,0.2,0.0,0.0,0.2,0.0,0.0,0.0,21.3,989,3
+238,Motor vehicle operators,53-3000,Summary,2.9,0.2,0.1,3.5,0.2,0.1,0.6,21.3,998,2
+239,Driver/sales workers and truck drivers,53-3030,Summary,1.3,0.1,0.0,1.6,0.1,0.0,0.3,21.3,1000,3
+240,Light truck drivers,53-3033,Line Item,1.2,0.1,0.1,1.5,0.1,0.1,0.3,21.3,1003,4
+241,Passenger vehicle drivers,53-3050,Summary,1.5,0.1,0.2,1.8,0.1,0.2,0.3,21.3,1004,3
+242,"Passenger vehicle drivers, except bus drivers, transit and intercity",53-3058,Line Item,1.5,0.1,0.2,1.8,0.1,0.2,0.3,21.3,1006,4
+243,Material moving workers,53-7000,Summary,0.9,0.1,0.0,1.1,0.1,0.0,0.2,21.3,1030,2
+244,Laborers and material movers,53-7060,Summary,0.9,0.1,0.0,1.1,0.1,0.0,0.2,21.3,1036,3
+245,"Laborers and freight, stock, and material movers, hand",53-7062,Line Item,0.2,0.0,0.0,0.3,0.0,0.0,0.0,21.3,1038,4
+246,Stockers and order fillers,53-7065,Line Item,0.7,0.0,0.0,0.8,0.0,0.0,0.1,21.3,1041,4

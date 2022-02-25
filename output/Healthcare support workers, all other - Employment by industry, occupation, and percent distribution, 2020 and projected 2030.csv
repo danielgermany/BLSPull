@@ -1,0 +1,95 @@
+,Industry Title,Industry Code,Industry Type,2020 Employment,2020 Percent of Occupation,2020 Percent of Industry,Projected 2030 Employment,Projected 2030 Percent of Occupation,Projected 2030 Percent of Industry,"Employment Change, 2020-2030","Employment Percent Change, 2020-2030",Industry Sort,Display Level
+0,"
+Filter by Title:
+
+","
+Filter by Code:
+
+", , , , , , , , , , , 
+1,Total employment,TE1000,Summary,100.5,100.0,0.1,111.0,100.0,0.1,10.6,10.5,,0
+2,Self-employed workers,TE1100,Line Item,1.2,1.2,0.0,1.2,1.1,0.0,0.0,1.4,2,1
+3,Total wage and salary employment,TE1200,Summary,99.3,98.8,0.1,109.9,98.9,0.1,10.6,10.6,3,1
+4,Manufacturing,31-330,Summary,0.3,0.3,0.0,0.3,0.3,0.0,0.0,5.4,60,2
+5,Miscellaneous manufacturing,339000,Summary,0.3,0.3,0.1,0.3,0.3,0.1,0.0,5.4,138,3
+6,Medical equipment and supplies manufacturing,339100,Line Item,0.3,0.3,0.1,0.3,0.3,0.1,0.0,5.4,139,4
+7,Wholesale trade,420000,Summary,0.9,0.8,0.0,0.9,0.8,0.0,0.0,4.8,143,2
+8,"Merchant wholesalers, nondurable goods",424000,Summary,0.5,0.5,0.0,0.6,0.5,0.0,0.0,4.8,151,3
+9,"Merchant wholesalers, nondurable goods (4242,6)",4240A2,Line Item,0.5,0.5,0.1,0.6,0.5,0.1,0.0,4.8,154,4
+10,Retail trade,44-450,Summary,1.2,1.2,0.0,1.2,1.1,0.0,0.0,1.2,158,2
+11,"Retail trade, except motor vehicle and parts dealers, food and beverage stores, and general merchandise stores",4445R0,Summary,0.6,0.6,0.0,0.7,0.6,0.0,0.1,9.6,167,3
+12,Health and personal care stores,446000,Summary,0.5,0.5,0.0,0.5,0.5,0.1,0.0,5.0,175,4
+13,Health and personal care stores,446100,Summary,0.5,0.5,0.0,0.5,0.5,0.1,0.0,5.0,176,5
+14,Finance and insurance,520000,Summary,0.3,0.3,0.0,0.3,0.3,0.0,0.0,15.4,252,2
+15,Insurance carriers and related activities,524000,Summary,0.3,0.3,0.0,0.3,0.3,0.0,0.0,15.7,260,3
+16,Insurance carriers,524100,Summary,0.2,0.2,0.0,0.2,0.2,0.0,0.0,16.0,261,4
+17,Direct health and medical insurance carriers,524114,Line Item,0.2,0.2,0.0,0.2,0.2,0.0,0.0,16.7,262,5
+18,"Agencies, brokerages, and other insurance related activities",524200,Summary,0.1,0.1,0.0,0.1,0.1,0.0,0.0,15.3,265,4
+19,Other insurance related activities,524290,Line Item,0.1,0.1,0.0,0.1,0.1,0.0,0.0,15.3,267,5
+20,"Professional, scientific, and technical services",540000,Summary,0.6,0.6,0.0,0.7,0.6,0.0,0.1,14.0,279,2
+21,"Professional, scientific, and technical services",541000,Summary,0.6,0.6,0.0,0.7,0.6,0.0,0.1,14.0,280,3
+22,Scientific research and development services,541700,Summary,0.3,0.3,0.0,0.3,0.2,0.0,0.0,5.1,291,4
+23,"Research and development in the physical, engineering, and life sciences",541710,Line Item,0.3,0.3,0.0,0.3,0.2,0.0,0.0,5.1,292,5
+24,Management of companies and enterprises,550000,Summary,0.6,0.6,0.0,0.6,0.5,0.0,0.0,3.3,299,2
+25,Management of companies and enterprises,551000,Line Item,0.6,0.6,0.0,0.6,0.5,0.0,0.0,3.3,300,3
+26,Facilities support services,561200,Line Item,0.2,0.2,0.1,0.2,0.2,0.1,0.0,7.9,304,4
+27,"Educational services; state, local, and private",610000,Summary,9.2,9.2,0.1,9.9,9.0,0.1,0.7,7.5,322,2
+28,"Educational services; state, local, and private",611000,Summary,9.2,9.2,0.1,9.9,9.0,0.1,0.7,7.5,323,3
+29,"Elementary and secondary schools; state, local, and private",611100,Summary,8.1,8.1,0.1,8.7,7.9,0.1,0.6,7.2,324,4
+30,Elementary and secondary schools; private,611105,Line Item,0.6,0.6,0.1,0.7,0.6,0.1,0.1,12.4,325,5
+31,Elementary and secondary schools; state,611102,Line Item,0.3,0.3,0.4,0.3,0.3,0.4,0.0,-4.9,326,5
+32,Elementary and secondary schools; local,611103,Line Item,7.3,7.2,0.1,7.8,7.0,0.1,0.5,7.3,327,5
+33,"Junior colleges, colleges, universities, and professional schools; state, local, and private",6112-3,Summary,1.0,1.0,0.0,1.1,1.0,0.0,0.1,9.2,328,4
+34,"Junior colleges; state, local, and private",611200,Summary,0.1,0.1,0.0,0.1,0.1,0.0,0.0,0.4,329,5
+35,Junior colleges; local,611203,Line Item,0.1,0.1,0.0,0.1,0.1,0.0,0.0,-4.7,332,6
+36,"Colleges, universities, and professional schools; state, local, and private",611300,Summary,0.9,0.9,0.0,1.0,0.9,0.0,0.1,10.1,333,5
+37,"Colleges, universities, and professional schools; private",611305,Line Item,0.4,0.4,0.0,0.5,0.4,0.0,0.1,13.8,334,6
+38,"Colleges, universities, and professional schools; state",611302,Line Item,0.4,0.4,0.0,0.4,0.4,0.0,0.0,4.9,335,6
+39,"Colleges, universities, and professional schools; local",611303,Line Item,0.1,0.1,0.1,0.1,0.1,0.1,0.0,14.2,336,6
+40,"Other educational services; state, local, and private",6114-7,Summary,0.1,0.1,0.0,0.1,0.1,0.0,0.0,16.2,337,4
+41,Healthcare and social assistance,620000,Summary,60.8,60.5,0.3,68.8,62.0,0.3,8.1,13.3,354,2
+42,Ambulatory healthcare services,621000,Summary,21.5,21.4,0.3,26.0,23.4,0.3,4.5,21.1,355,3
+43,Offices of physicians,621100,Line Item,5.3,5.3,0.2,5.6,5.1,0.2,0.4,6.8,356,4
+44,Offices of dentists,621200,Line Item,0.6,0.6,0.1,0.6,0.6,0.1,0.1,11.3,357,4
+45,Offices of other health practitioners,621300,Summary,5.0,5.0,0.5,6.4,5.8,0.5,1.4,28.3,358,4
+46,Offices of chiropractors,621310,Line Item,0.4,0.4,0.3,0.4,0.4,0.3,0.0,6.3,359,5
+47,Offices of optometrists,621320,Line Item,0.9,0.9,0.7,1.1,1.0,0.7,0.1,12.7,360,5
+48,"Offices of physical, occupational and speech therapists, and audiologists",621340,Line Item,3.4,3.3,0.9,4.5,4.1,0.8,1.2,34.8,362,5
+49,Offices of all other health practitioners,621390,Line Item,0.3,0.3,0.2,0.4,0.4,0.2,0.1,33.3,363,5
+50,Outpatient care centers,621400,Summary,2.5,2.5,0.3,3.1,2.8,0.3,0.5,20.3,364,4
+51,Outpatient mental health and substance abuse centers,621420,Line Item,0.2,0.2,0.1,0.2,0.2,0.1,0.0,16.8,365,5
+52,Medical and diagnostic laboratories,621500,Line Item,3.3,3.3,1.2,4.0,3.6,1.2,0.7,22.9,367,4
+53,Home healthcare services,621600,Line Item,2.0,2.0,0.1,2.4,2.2,0.1,0.4,21.3,368,4
+54,Other ambulatory healthcare services,621900,Summary,2.8,2.8,0.9,3.8,3.4,1.0,1.0,35.7,369,4
+55,All other ambulatory healthcare services,621990,Line Item,2.8,2.8,2.0,3.8,3.4,2.0,1.0,35.9,371,5
+56,"Hospitals; state, local, and private",622000,Summary,28.4,28.3,0.5,30.5,27.5,0.5,2.1,7.3,372,3
+57,"General medical and surgical hospitals; state, local, and private",622100,Summary,26.4,26.3,0.5,28.1,25.3,0.5,1.7,6.5,373,4
+58,General medical and surgical hospitals; private,622105,Line Item,23.6,23.5,0.5,25.3,22.8,0.5,1.7,7.1,374,5
+59,General medical and surgical hospitals; state,622102,Line Item,0.6,0.6,0.2,0.6,0.6,0.2,0.0,0.1,375,5
+60,General medical and surgical hospitals; local,622103,Line Item,2.2,2.2,0.3,2.2,2.0,0.3,0.0,1.5,376,5
+61,"Psychiatric and substance abuse hospitals; state, local, and private",622200,Summary,1.1,1.1,0.4,1.2,1.1,0.4,0.1,5.4,377,4
+62,"Specialty (except psychiatric and substance abuse) hospitals; state, local, and private",622300,Summary,0.9,0.9,0.3,1.2,1.1,0.3,0.3,32.1,381,4
+63,Nursing and residential care facilities,623000,Summary,8.7,8.6,0.3,9.5,8.6,0.3,0.8,9.6,385,3
+64,Nursing care facilities (skilled nursing facilities),623100,Line Item,4.0,4.0,0.3,4.0,3.6,0.3,0.0,-1.0,386,4
+65,"Residential intellectual and developmental disability, mental health, and substance abuse facilities",623200,Summary,2.0,2.0,0.3,2.3,2.1,0.3,0.4,18.1,387,4
+66,Residential intellectual and developmental disability facilities,623210,Line Item,1.1,1.1,0.3,1.2,1.1,0.3,0.1,11.9,388,5
+67,Residential mental health and substance abuse facilities,623220,Line Item,0.9,0.9,0.4,1.2,1.0,0.4,0.2,25.3,389,5
+68,Continuing care retirement communities and assisted living facilities for the elderly,623300,Line Item,2.3,2.3,0.2,2.8,2.5,0.2,0.5,23.2,390,4
+69,Other residential care facilities,623900,Line Item,0.4,0.4,0.2,0.4,0.3,0.2,0.0,-2.5,391,4
+70,Social assistance,624000,Summary,2.2,2.2,0.1,2.8,2.5,0.1,0.6,28.7,392,3
+71,Individual and family services,624100,Summary,1.8,1.8,0.1,2.4,2.1,0.1,0.6,34.4,393,4
+72,Services for the elderly and persons with disabilities,624120,Line Item,1.4,1.4,0.1,1.9,1.8,0.1,0.5,35.8,394,5
+73,Community and vocational rehabilitation services,6242-3,Summary,0.3,0.3,0.1,0.4,0.3,0.1,0.0,3.0,396,4
+74,Vocational rehabilitation services,624300,Line Item,0.3,0.3,0.1,0.3,0.3,0.1,0.0,1.4,398,5
+75,Child day care services,624400,Line Item,0.1,0.1,0.0,0.1,0.1,0.0,0.0,14.2,399,4
+76,Accommodation and food services,720000,Summary,0.3,0.3,0.0,0.4,0.3,0.0,0.1,15.1,417,2
+77,Food services and drinking places,722000,Summary,0.3,0.3,0.0,0.4,0.3,0.0,0.0,14.4,424,3
+78,Special food services,722300,Line Item,0.3,0.3,0.1,0.4,0.3,0.1,0.0,14.4,425,4
+79,Other services (except public administration),810000,Summary,3.8,3.7,0.1,4.9,4.4,0.1,1.2,31.1,430,2
+80,Personal and laundry services,812000,Summary,3.7,3.7,0.3,4.8,4.4,0.3,1.2,31.4,439,3
+81,Personal care services,812100,Line Item,3.7,3.7,0.6,4.8,4.3,0.6,1.2,31.4,440,4
+82,"Religious, grantmaking, civic, professional, and similar organizations",813000,Summary,0.1,0.1,0.0,0.1,0.1,0.0,0.0,17.5,444,3
+83,Government,900000,Summary,18.4,18.3,0.2,18.2,16.4,0.2,-0.1,-0.7,455,2
+84,Federal government,910000,Summary,15.6,15.6,0.5,15.4,13.9,0.5,-0.2,-1.4,456,3
+85,"Federal government, excluding postal service",999100,Line Item,15.6,15.6,0.7,15.4,13.9,0.7,-0.2,-1.4,458,4
+86,"State government, excluding education and hospitals",999200,Line Item,1.5,1.5,0.1,1.5,1.4,0.1,0.0,-0.4,459,3
+87,"Local government, excluding education and hospitals",999300,Line Item,1.2,1.2,0.0,1.3,1.2,0.0,0.1,8.3,460,3
