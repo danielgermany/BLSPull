@@ -2,6 +2,10 @@ from http.server import HTTPServer, BaseHTTPRequestHandler
 import cgi
 
 BLSlist = []
+
+with open("BLSlists.txt","r") as data_file:
+    BLSlist = data_file.read().splitlines()
+
 class requestHandler(BaseHTTPRequestHandler):
     def do_GET(self):
         if self.path.endswith('/BLSlist'):
@@ -26,7 +30,7 @@ class requestHandler(BaseHTTPRequestHandler):
 
             output = ''
             output += '<html><body>'
-            output += '<h1>Add New Task</h1>'
+            output += '<h1>Add New Link</h1>'
 
             output += '<form method="POST" enctype="multipart/form-data" action="/BLSlist/new">'
             output += '<input name="task" type="text" placeholder="Add new link">'
@@ -35,6 +39,8 @@ class requestHandler(BaseHTTPRequestHandler):
             output += '</body></html>'
 
             self.wfile.write(output.encode())
+        for x in BLSlist:
+            print(x)
     def do_POST(self):
         if self.path.endswith('/new'):
             ctype, pdict = cgi.parse_header(self.headers.get('content-type'))
@@ -45,6 +51,10 @@ class requestHandler(BaseHTTPRequestHandler):
                 fields = cgi.parse_multipart(self.rfile, pdict)
                 new_task = fields.get('task')
                 BLSlist.append(new_task[0])
+                file = open("BLSlists.txt", "a")
+                file.writelines(new_task[0] + "\n")
+                file.close()
+
 
             self.send_response(301)
             self.send_header('content-type', 'text/html')
@@ -60,6 +70,8 @@ def main():
     server = HTTPServer(('', PORT), requestHandler)
     print("Server running on port",PORT)
     server.serve_forever()
+    for x in BLSlist:
+        print(x)
 
 if __name__ == '__main__':
     main()
