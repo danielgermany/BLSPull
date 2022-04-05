@@ -2,9 +2,13 @@ from http.server import HTTPServer, BaseHTTPRequestHandler
 import cgi
 
 BLSlist = []
+BLSlist_name = []
 
 with open("BLSlists.txt","r") as data_file:
     BLSlist = data_file.read().splitlines()
+
+with open("BLSlists_name.txt","r") as data_file:
+    BLSlist_name = data_file.read().splitlines()
 
 class requestHandler(BaseHTTPRequestHandler):
     def do_GET(self):
@@ -17,8 +21,9 @@ class requestHandler(BaseHTTPRequestHandler):
             output += '<html><body>'
             output += '<h1> BLS Link List </h1>'
             output += '<h3><a href="/BLSlist/new">Add New Link</a></h3>'
-            for task in BLSlist:
-                output += task
+            output += '<h3> Current Healthcare Query DashBoards </h3>'
+            for i in range(len(BLSlist)):
+                output += '<a href='+BLSlist[i]+' target="_blank">'+BLSlist_name[i]+'</a>'
                 output += '</br>'
             output += '</body></html>'
             self.wfile.write(output.encode())
@@ -34,7 +39,12 @@ class requestHandler(BaseHTTPRequestHandler):
 
             output += '<form method="POST" enctype="multipart/form-data" action="/BLSlist/new">'
             output += '<input name="task" type="text" placeholder="Add new link">'
+
+
+            output += '<form method="POST" enctype="multipart/form-data" action="/BLSlist/new">'
+            output += '<input name="task_name" type="text" placeholder="Add new link name">'
             output += '<input type="submit" value="Add">'
+
             output += '</form>'
             output += '</body></html>'
 
@@ -50,9 +60,17 @@ class requestHandler(BaseHTTPRequestHandler):
             if ctype == 'multipart/form-data':
                 fields = cgi.parse_multipart(self.rfile, pdict)
                 new_task = fields.get('task')
+                new_task_name = fields.get('task_name')
+
+                BLSlist_name.append(new_task_name[0])
                 BLSlist.append(new_task[0])
+
                 file = open("BLSlists.txt", "a")
                 file.writelines(new_task[0] + "\n")
+                file.close()
+
+                file = open("BLSlists_name.txt", "a")
+                file.writelines(new_task_name[0] + "\n")
                 file.close()
 
 
