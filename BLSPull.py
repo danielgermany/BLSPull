@@ -1,4 +1,3 @@
-from selenium import webdriver
 from bs4 import BeautifulSoup
 
 import urllib.request as r
@@ -50,7 +49,6 @@ def makeDataFrame(i):
     # Storing the data into Pandas
     # DataFrame
     dataFrame = pd.DataFrame(data = data)
-
     return dataFrame
 
 def pushtoGoogleSheet(link,name):
@@ -67,91 +65,31 @@ def pushtoGoogleSheet(link,name):
     worksheet.update([df.columns.values.tolist()] + df.values.tolist())
     print("Pushed to sheet")
 
-def getTitleGoogleSheet():
-    gc = gspread.service_account(filename='file.json')
-    sh = gc.open('Data Pull BLS')
-    worksheet = sh.worksheet("Form Responses 3")
-    list_of_title = worksheet.get_all_values()
-    return list_of_title[-1][1]
-
-def compareName(title):
-    gc = gspread.service_account(filename='file.json')
-    sh = gc.open('Data Pull BLS')
-    worksheet = sh.worksheet("Refrence")
-    lists_of_links = worksheet.get_all_values()
-    for x in lists_of_links:
-        if x[0] == title:
-            return x[1]
-
 def readFile(path):
     with open(path,"r") as f:
         SMRF1 = f.readlines()
     return SMRF1
 
 def checkFileMod():
-    initial = readFile()
+    print("Checking initial file...")
+    initial = readFile("BLSlists.txt")
     while True:
-        current = readFile()
+        current = readFile("BLSlists.txt")
         if initial != current:
-            for line in f:
+            print("Change detected...")
+            for line in current:
                 pass
             lastLink = line
-
-            return True
-            "Run the entire code here"
-
-#pushtoGoogleSheet()
-link = "https://www.bls.gov/oes/current/oes_ny.htm#31-00000"
-name = "State Occupational Employment and Wage Estimates New York"
-
-
-#name = getTitleGoogleSheet()
-#link = compareName(name)
-
-pushtoGoogleSheet(link,name)
+            with open("BLSlists_name.txt") as l:
+                for line in l:
+                    pass
+                lastname = line
+            initial = current
+            pushtoGoogleSheet(lastLink,lastname)
 
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-"""
-counter = 0
-for x in list_of_attributes:
-    counter+=1
-    print("This is iteration", counter)
-    try:
-        pushtoGoogleSheet(x,name + str(counter))
-    except TypeError:
-        print("Failed on iteration",counter)
-        print(x)
-"""
-
-"""
-dataFrame = pullBLS("https://data.bls.gov/projections/nationalMatrix?queryParams=621600&ioType=i")
-row,col = dataFrame.shape
-print(row)
-"""
+checkFileMod()
