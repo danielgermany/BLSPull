@@ -1,34 +1,31 @@
 from selenium import webdriver
 from bs4 import BeautifulSoup
 
+import urllib.request as r
+
 import pandas as pd
 import gspread
 from df2gspread import df2gspread as d2g
 
 def pullBLS(url):
-    #request_json = request.get_json()
-    #htmlID = 'mytable'
+    page = r.urlopen(url)
+    return page.read().decode('utf8')
 
-    data = []
-    list_header = []
-    elements = []
-    attribute = []
+def parseHTML(html):
+    soup = BeautifulSoup(html)
+    tables = soup.findAll("table")
 
-    driver = webdriver.Chrome(executable_path=".\chromedriver.exe")
-    driver.get(url)
-    #.get_attribute('outerHTML')
-    #html = driver.find_element_by_id('DataTables_Table_0' or 'oes')
-    html = driver.find_element_by_id('DataTables_Table_0')
-
-    print("Closing driver")
-    print(html)
-
-    driver.quit()
-
-    return html
+    for table in tables:
+        if table.findParent("table") is None:
+            print(str(table))
 
 def makeDataFrame(i):
     print("starting to make data frame")
+    data = []
+
+    # for getting the header from
+    # the HTML file
+    list_header = []
     soup = BeautifulSoup(i,'html.parser')
     header = soup.find_all("table")[0].find("tr")
 
@@ -38,6 +35,7 @@ def makeDataFrame(i):
         except:
             continue
 
+    # for getting the data
     HTML_data = soup.find_all("table")[0].find_all("tr")[1:]
 
     for element in HTML_data:
@@ -48,12 +46,16 @@ def makeDataFrame(i):
             except:
                 continue
         data.append(sub_data)
-
-    dataFrame = pd.DataFrame(data = data, columns = list_header)
+    print(list_header)
+    # Storing the data into Pandas
+    # DataFrame
+    dataFrame = pd.DataFrame(data = data)
 
     return dataFrame
 
 def pushtoGoogleSheet(link,name):
+    iter = pullBLS(link)
+    parseHTML(iter)
     df = makeDataFrame(iter)
     row,col = df.shape
     gc = gspread.service_account(filename='file.json')
@@ -99,15 +101,14 @@ def checkFileMod():
             "Run the entire code here"
 
 #pushtoGoogleSheet()
-link = "https://www.bls.gov/oes/current/oes_ny.htm#31-0000"
-name = "State Occupational Employment"
+link = "https://www.bls.gov/oes/current/oes_ny.htm#31-00000"
+name = "State Occupational Employment and Wage Estimates New York"
 
 
 #name = getTitleGoogleSheet()
 #link = compareName(name)
-list_of_attributes = pullBLS(link)
 
-pushtoGoogleSheet(list_of_attributes,name)
+pushtoGoogleSheet(link,name)
 
 
 
