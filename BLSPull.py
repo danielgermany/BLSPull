@@ -45,10 +45,12 @@ def makeDataFrame(i):
             except:
                 continue
         data.append(sub_data)
-    print(list_header)
     # Storing the data into Pandas
     # DataFrame
     dataFrame = pd.DataFrame(data = data)
+    for x in dataFrame:
+        if x%2==0:
+            dataFrame.drop(x,inplace = True, axis = 1)
     return dataFrame
 
 def pushtoGoogleSheet(link,name):
