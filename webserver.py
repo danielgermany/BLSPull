@@ -3,12 +3,16 @@ import cgi
 
 BLSlist = []
 BLSlist_name = []
+BLSlist_dash = []
 
 with open("BLSlists.txt","r") as data_file:
     BLSlist = data_file.read().splitlines()
 
 with open("BLSlists_name.txt","r") as data_file:
     BLSlist_name = data_file.read().splitlines()
+
+with open("BLSlists_dash.txt","r") as data_file:
+    BLSlist_dash = data_file.read().splitlines()
 
 class requestHandler(BaseHTTPRequestHandler):
     def do_GET(self):
@@ -23,7 +27,7 @@ class requestHandler(BaseHTTPRequestHandler):
             output += '<h3><a href="/BLSlist/new">Add New Link</a></h3>'
             output += '<h3> Current Healthcare Query DashBoards </h3>'
             for i in range(len(BLSlist)):
-                output += '<a href='+BLSlist[i]+' target="_blank">'+BLSlist_name[i]+'</a>'
+                output += '<a href='+BLSlist_dash[i]+' target="_blank">'+BLSlist_name[i]+'</a>'
                 output += '</br>'
             output += '</body></html>'
             self.wfile.write(output.encode())
